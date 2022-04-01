@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PULSECAPS.PcbDoc]
+   Generated File[PULSECAPS-RoundHoles.TXT]
+   Generated File[PULSECAPS-SlotHoles.TXT]
+   Generated File[PULSECAPS.LDP]
+   Generated File[PULSECAPS.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 4:55:46 PM On 2/18/2022

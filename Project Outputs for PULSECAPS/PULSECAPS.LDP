@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\bitsnap_snaps\pcba\snaps\PULSECAPS\PULSECAPS.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pulsecaps-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pulsecaps-slotholes.txt|DrillLayers=gtl,gbl
